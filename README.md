@@ -35,7 +35,7 @@
   * Finally, run the command dotnet run to run the project!
   * Note: dotnet run also restores and builds the project, so you can use this single command to start the console app
 
-  // THIS IS THE MOST IMPORTANT STEP, AND IT’S NEW. YOU MUST TELL US HOW TO SET UP YOUR DATABASE
+  <!-- // THIS IS THE MOST IMPORTANT STEP, AND IT’S NEW. YOU MUST TELL US HOW TO SET UP YOUR DATABASE -->
 
 5. Create a database using SQL via MySQL:
    
@@ -62,4 +62,8 @@ Please reach out through my GitHub account.
 Details(), Create(), Create() (with an HttpPost), Delete(), DeleteConfirmed(), Index(), Edit(), Edit() (with an HttpPost).  -->
 
 
-<!-- Don't forget to add styling at the end! -->
+<!-- Don't forget to add styling at the end! 
+  * also should this proxies package from Entity Framework Core be part of the instructions? : $ dotnet add package Microsoft.EntityFrameworkCore.Proxies -v 5.0.0
+-->
+
+<!-- * DON'T FORGET TO FINISH OUT YOUR README INSTRUCTIONS, ADD STYLING, AND EXPORT YOUR SQL DATABASE TO YOUR ROOT DIRECTORY :) -->
