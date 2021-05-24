@@ -4,10 +4,15 @@
     <meta charset="utf-8">
     <title>Hair Salon</title>
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
-    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css">
   </head>
   <body>
-    @RenderBody()
-    @Html.Partial("Footer")
+    <div class="container-fluid">
+      @RenderBody()
+
+      <img src="~/img/SalonImage.jpg" alt="Robot Client in Salon Chair" style="width:200px;border-radius:8px;margin-top:10%;">
+
+      @Html.Partial("Footer")
+    </div>
   </body>
 </html>
