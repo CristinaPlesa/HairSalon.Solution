@@ -58,18 +58,11 @@
 Please reach out through my GitHub account.
 [github.com/CristinaPlesa](https://github.com/CristinaPlesa)
 
-<!-- Index, Create, Delete, DeleteConfirm, and...
-Details(), Create(), Create() (with an HttpPost), Delete(), DeleteConfirmed(), Index(), Edit(), Edit() (with an HttpPost).  -->
-
 
 <!-- Don't forget to add styling at the end! 
   * also should this proxies package from Entity Framework Core be part of the instructions? : $ dotnet add package Microsoft.EntityFrameworkCore.Proxies -v 5.0.0
 
-  * also need to add specific specialties and date of hire fields for Stylists. Do this in constructor and SQL Database.
-
-  * Is CREATE functionality included for one class and is CREATE and VIEW functionality included for the other class? (What does this mean? Why wouldn't both classes have VIEW functionality?)
-
   *  instructions are given to the user on how to recreate the appsettings.json file
 -->
 
-<!-- * DON'T FORGET TO FINISH OUT YOUR README INSTRUCTIONS, ADD STYLING, AND EXPORT YOUR SQL DATABASE TO YOUR ROOT DIRECTORY :) -->
+<!-- * DON'T FORGET TO FINISH OUT YOUR README INSTRUCTIONS -->
