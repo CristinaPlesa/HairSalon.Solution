@@ -1,0 +1,39 @@
+body {
+  background: rgb(235, 165, 101);
+  min-height: 100vh;
+  text-align: center;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  background-color: rgb(228, 199, 172);
+  border-style: double;
+  padding: 1%;
+}
+
+div#footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  color: #ccc;
+  background: #333;
+  padding: 8px;
+}
+
+a:link, a:visited {
+  color: rgb(167, 83, 104);
+}
+
+a:hover {
+  background-color: rgb(151, 0, 138);
+  color: whitesmoke;
+  padding: 1%;
+  border-radius: 4px;
+}
+
+ul {
+  text-align: left;
+  margin-left: 150px;
+}
