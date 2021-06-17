@@ -7,6 +7,7 @@
 ## Technologies Used
 
 * C#
+* Entity Framework
 * .NET 5 SDK
 * VS Code
 * MySQL Workbench
